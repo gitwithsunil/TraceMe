@@ -22,10 +22,10 @@ It helps identify where a given username exists across multiple online platforms
 ### Results Page
 ![TraceMe Results](images/result.png)
 
--The result page gave me 4 real profiles of my username
+- The result page gave me 4 real profiles of my username .
 
-##NOTE
--The HoleHe CL tool is curently not working and taking too much time to search so , we stoped the tool to execute .
+## NOTE
+- The HoleHe CL tool is curently not working and taking too much time to search so , we stoped the tool to execute .
 
 ## Installation
 ```bash
