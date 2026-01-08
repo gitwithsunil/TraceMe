@@ -14,6 +14,13 @@ It helps identify where a given username exists across multiple online platforms
 - Flask
 - Sherlock
 - Kali Linux
+## Screenshots
+
+### Home Page
+![TraceMe Home](images/home.png)
+
+### Results Page
+![TraceMe Results](images/result.png)
 
 ## Installation
 ```bash
