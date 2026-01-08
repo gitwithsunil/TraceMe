@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Sherlock (excluded for now)
+sherlock/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
