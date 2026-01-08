@@ -1,4 +1,4 @@
-# TraceMe 🔍
+# TraceMe 
 
 TraceMe is an OSINT-based cybersecurity project built using Flask and Sherlock.  
 It helps identify where a given username exists across multiple online platforms.
@@ -21,6 +21,9 @@ It helps identify where a given username exists across multiple online platforms
 
 ### Results Page
 ![TraceMe Results](images/result.png)
+
+##NOTE
+-The HoleHe CL tool is curently not working and taking too much time to search so , we stoped the tool to execute .
 
 ## Installation
 ```bash
