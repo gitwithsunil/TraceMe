@@ -26,7 +26,7 @@ It helps identify where a given username exists across multiple online platforms
 
 ## NOTE
 - The HoleHe CL tool is curently not working and taking too much time to search so , we stoped the tool to execute .
-
+- Working on the holehe integration , focousing the main issue .
 ## Installation
 ```bash
 git clone https://github.com/<your-username>/traceme.git
