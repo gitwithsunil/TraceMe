@@ -6,7 +6,7 @@ It helps identify where a given username exists across multiple online platforms
 ## Features
 - Username enumeration using Sherlock
 - Clean Flask web interface
-- Runs on Kali Linux
+- Runs on Kali Linux (major rule , don't make mistake by cloning in winows )
 - Modular and extensible design
 
 ## Tech Stack
